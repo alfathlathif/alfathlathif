@@ -1,6 +1,6 @@
 ## 👋 Hi there, nice to meet you!
 Welcome to my page </br>
-I'm Alfath, data engineer enthusiast currently living in Depok, West Java, Indonesia <img src="https://www.freepik.com/icon/indonesia_12339528#fromView=search&page=1&position=18&uuid=5834da94-972e-4779-ab49-a444e8f0d4d8" width="13"/>.
+I'm Alfath, data engineer enthusiast currently living in Depok, West Java, Indonesia <img src="https://www.flaticon.com/free-icon/indonesia_12339528?term=indonesia&page=1&position=22&origin=search&related_id=12339528" width="13"/>.
 
 <!--
 **alfathlathif/alfathlathif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
