@@ -4,6 +4,7 @@
 
 ## 💻 Tools that I used
 <p>
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-3776AB?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
 </p>
 
