@@ -20,7 +20,7 @@
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
 </p>
 
-## Project
+## 🛠️ Highlight Projects
 
 <!-- Repository 1: msib-telkom-detf/moses -->
 <a href="https://github.com/msib-telkom-detf/moses">
