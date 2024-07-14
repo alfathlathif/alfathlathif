@@ -4,7 +4,7 @@
 
 ## 💼 Experience
 - Data Engineer Intern at Telkom Indonesia <img src="https://w1.pngwing.com/pngs/277/574/png-transparent-telkomsel-logo-telkom-university-telkom-institute-of-technology-telkom-indonesia-telecommunications-mobile-phones-telkom-group-mass-media.png" width="20"/>
-- Cloud Computing Cohort at Bangkit Academy 
+- Cloud Computing Cohort at Bangkit Academy <img src="https://files.klob.id/public/mig01/l32ovhf5/channels4_profile.jpg" width="20"/>
 
 ## 🛠️ Project
 
