@@ -6,7 +6,7 @@
 <p>
   <img alt="Airbyte" src="https://img.shields.io/badge/-Airbyte-272A41?style=flat&logo=airbyte&logoColor=white" />
   <img alt="Airflow" src="https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" />
   <img alt="ClickHouse" src="https://img.shields.io/badge/-ClickHouse-F7CA18?style=flat&logo=clickhouse&logoColor=white" />
   <img alt="dbt" src="https://img.shields.io/badge/-dbt-F54336?style=flat&logo=dbt&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
