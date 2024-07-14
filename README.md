@@ -4,7 +4,7 @@
 
 ## 💻 Tools that I used
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=FFD43B" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
 </p>
 
 ## 🛠️ Project
