@@ -4,8 +4,21 @@
 
 ## 💻 Tools that I used
 <p>
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-3776AB?style=flat&logo=python&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img alt="Airflow" src="https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white" />
+<img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google-cloud&logoColor=white" />
+<img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+<img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
+<img alt="ClickHouse" src="https://img.shields.io/badge/-ClickHouse-F7CA18?style=flat&logo=clickhouse&logoColor=white" />
+<img alt="dbt" src="https://img.shields.io/badge/-dbt-F54336?style=flat&logo=dbt&logoColor=white" />
+<img alt="Airbyte" src="https://img.shields.io/badge/-Airbyte-272A41?style=flat&logo=airbyte&logoColor=white" />
+<img alt="AWS" src="https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white" />
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
+<img alt="React JS" src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" />
+<img alt="Next JS" src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+<img alt="Node JS" src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+<img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white" />
+
 </p>
 
 ## 🛠️ Project
