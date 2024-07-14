@@ -3,6 +3,8 @@
 - 📚 I have just completed my Bachelor's degree in Information Engineering at Gadjah Mada University
 
 ## 💼 Experience
+- Data Engineer Intern at Telkom Indonesia <img src="https://rusdi.website/inc/uploads/2021/06/Operator-yang-ada-di-Indonesia-Telkom-Indonesia.png" width="15"/>
+- Cloud Computing Cohort at Bangkit Academy 
 
 ## 🛠️ Project
 
