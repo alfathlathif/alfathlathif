@@ -30,8 +30,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alfathlathif&repo=air-pollution-monitoring-project&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="air-pollution-monitoring-project" />
 </a>
 
-This repository contains the codebase for an air pollution monitoring project, integrating IoT sensors and data analytics.
-
+<a href="https://github.com/Bangkit-Capstone-Ecoscan/cloud-computing">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bangkit-Capstone-Ecoscan&repo=cloud-computing&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="cloud-computing" />
+</a>
 
 
 ## 💼 Experience
