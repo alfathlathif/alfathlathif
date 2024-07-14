@@ -3,7 +3,7 @@
 - 📚 I have just completed my Bachelor's degree in Information Engineering at Gadjah Mada University
 
 ## 💼 Experience
-- Data Engineer Intern at Telkom Indonesia <img src="https://banner2.cleanpng.com/20180619/gf/kisspng-telkom-indonesia-telecommunication-business-telkom-5b29b8975e6352.0557019215294608873866.jpg" width="15"/>
+- Data Engineer Intern at Telkom Indonesia <img src="https://banner2.cleanpng.com/20180619/gf/kisspng-telkom-indonesia-telecommunication-business-telkom-5b29b8975e6352.0557019215294608873866.jpg" width="20"/>
 - Cloud Computing Cohort at Bangkit Academy 
 
 ## 🛠️ Project
