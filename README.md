@@ -22,6 +22,10 @@
 
 ## 🛠️ Project
 
+<a href="https://github.com/Zhenye-Na/DA-RNN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=DA-RNN&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
+</a>
+
 ## 💼 Experience
 - Data Engineer Intern at Telkom Indonesia <img src="https://w1.pngwing.com/pngs/277/574/png-transparent-telkomsel-logo-telkom-university-telkom-institute-of-technology-telkom-indonesia-telecommunications-mobile-phones-telkom-group-mass-media.png" width="20"/>
   - Developed a data pipeline leveraging Airflow for orchestration, Airbyte for data ingestion, ClickHouse as the data warehouse, and DBT for data transformation and quality checks.
