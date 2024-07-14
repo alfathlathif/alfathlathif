@@ -20,6 +20,29 @@
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
 </p>
 
+## Project
+
+<!-- Repository 1: msib-telkom-detf/moses -->
+<a href="https://github.com/msib-telkom-detf/moses">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=msib-telkom-detf&repo=moses&theme=buefy&bg_color=273849" />
+</a>
+
+<!-- Repository 2: alfathlathif/air-pollution-monitoring-project -->
+<a href="https://github.com/alfathlathif/air-pollution-monitoring-project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alfathlathif&repo=air-pollution-monitoring-project&theme=buefy&bg_color=273849" />
+</a>
+
+<!-- Repository 3: Bangkit-Capstone-Ecoscan/cloud-computing -->
+<a href="https://github.com/Bangkit-Capstone-Ecoscan/cloud-computing">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bangkit-Capstone-Ecoscan&repo=cloud-computing&theme=buefy&bg_color=273849" />
+</a>
+
+<!-- Repository 4: Bangkit-Capstone-Ecoscan/model-cloud -->
+<a href="https://github.com/Bangkit-Capstone-Ecoscan/model-cloud">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bangkit-Capstone-Ecoscan&repo=model-cloud&theme=buefy&bg_color=273849" />
+</a>
+
+
 ## 💼 Experience
 - Data Engineer Intern at Telkom Indonesia <img src="https://w1.pngwing.com/pngs/277/574/png-transparent-telkomsel-logo-telkom-university-telkom-institute-of-technology-telkom-indonesia-telecommunications-mobile-phones-telkom-group-mass-media.png" width="20"/>
   - Developed a data pipeline leveraging Airflow for orchestration, Airbyte for data ingestion, ClickHouse as the data warehouse, and DBT for data transformation and quality checks.
