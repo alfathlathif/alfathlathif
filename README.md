@@ -26,6 +26,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=msib-telkom-detf&repo=moses&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="moses" />
 </a>
 
+<a href="https://github.com/alfathlathif/air-pollution-monitoring-project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alfathlathif&repo=air-pollution-monitoring-project&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="air-pollution-monitoring-project" />
+</a>
+
 
 ## 💼 Experience
 - Data Engineer Intern at Telkom Indonesia <img src="https://w1.pngwing.com/pngs/277/574/png-transparent-telkomsel-logo-telkom-university-telkom-institute-of-technology-telkom-indonesia-telecommunications-mobile-phones-telkom-group-mass-media.png" width="20"/>
